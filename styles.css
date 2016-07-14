@@ -1,0 +1,66 @@
+body{
+  background-image: url("zachsithlord.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+}
+.mainContainer{
+  width: 40%;
+  border: 2px solid white;
+  height: 300px;
+  background-color: white;
+  display: inline-block;
+  opacity: .3;
+
+}
+.secondContainer{
+  width: 40%;
+  border: 2px solid white;
+  height: 300px;
+  background-color: white;
+  display: inline-block;
+  opacity: .3;
+
+}
+.thirdContainer{
+  width: 40%;
+  border: 2px solid white;
+  height: 300px;
+  background-color: white;
+  display: inline-block;
+  opacity: .3;
+
+}
+.fourthContainer{
+  width: 40%;
+  border: 2px solid white;
+  height: 300px;
+  background-color: white;
+  display: inline-block;
+  opacity: .3;
+}
+.fifthContainer{
+  width: 40%;
+  border: 2px solid white;
+  height: 300px;
+  background-color: white;
+  display: inline-block;
+  opacity: .3;
+}
+.color{
+  width: 30%;
+  border: 2px solid limegreen;
+  height: 40px;
+  background-color: yellow;
+}
+.funnny{
+  width: 30%;
+  border: 2px solid limegreen;
+  height: 40px;
+  background-color: yellow;
+}
+.goodTimes{
+  width: 30%;
+  border: 2px solid limegreen;
+  height: 40px;
+  background-color: yellow;
+}
